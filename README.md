@@ -24,13 +24,7 @@ This project demonstrates transaction management in Java using JDBC, focusing on
 - Execute `MainApp` for a demonstration.
 - Run `TransactionTest` to validate transaction mechanisms.
 
-## Ideal For
-Developers and learners interested in transaction management and ensuring data integrity in Java applications.
+## Author
+Made by Michal Frost
 
-## Contributing
-Contributions are welcome. Please fork the repository and submit pull requests or issues for enhancements.
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for more information.
-
-## Created by Michal Frost.
+Happy coding.
