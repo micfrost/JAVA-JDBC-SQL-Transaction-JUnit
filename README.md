@@ -10,10 +10,11 @@ This project demonstrates transaction management in Java using JDBC, focusing on
 - **JUnit Testing**: Includes tests to verify transactional behavior, especially rollbacks.
 
 ## Java Features
-- Utilizes JDBC for database connectivity and transaction management.
-- Employs Java Exception Handling for robust error management.
-- Implements Java Collections (e.g., ArrayList) for data handling.
-- Follows Java best practices for class and method design.
+- **Java Database Connectivity (JDBC)**: Utilizes JDBC for establishing and managing database connections, executing SQL statements, and handling result sets.
+- **Exception Handling**: Employs Java's exception handling mechanisms to manage SQLExceptions, ensuring the system's robustness and resilience to errors.
+- **Control over Transaction Boundaries**: Manages transactions through explicit control of commit and rollback operations, demonstrating the handling of transaction boundaries.
+- **JUnit Framework**: Uses the JUnit framework for writing and running repeatable tests, providing a thorough validation mechanism for the application’s functionality.
+
 
 ## Requirements
 - Java JDK
