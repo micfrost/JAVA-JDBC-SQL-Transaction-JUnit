@@ -1,7 +1,8 @@
 package test.java;
 
-import D83_Transaction3.src.main.java.DBConnection;
-import D83_Transaction3.src.main.java.Transaction;
+
+import main.java.DBConnection;
+import main.java.Transaction;
 import org.junit.jupiter.api.Test;
 
 import java.sql.Connection;
@@ -11,6 +12,7 @@ import java.sql.Statement;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
+
 
 public class TransactionTest {
 
